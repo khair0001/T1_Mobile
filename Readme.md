@@ -4,6 +4,8 @@
 **Mata Kuliah**: Pemrograman Bergerak 
 ---
 
+### saya pake AI cuman buat tampilan ASCII nya pak
+
 ## 1. Sistem Toko Online (TokoOnline.kt)
 
 ### Deskripsi
