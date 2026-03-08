@@ -63,12 +63,9 @@ formatRupiah() // biar ada .
 ```
 
 ### Screenshot
-![Produk](<img width="458" height="501" alt="image" src="https://github.com/user-attachments/assets/146cf140-f3d1-41eb-abc4-22c6d78235a7" />
-)
-![Transaksi 1](<img width="406" height="912" alt="image" src="https://github.com/user-attachments/assets/ba54c4d7-8b08-4a7c-ba94-719f9a41a59f" />
-)
-![transsaksi 2 dan statistik toko](<img width="383" height="864" alt="image" src="https://github.com/user-attachments/assets/f8578308-22e6-4e47-b8d8-bd8ca8a92ae2" />
-)
+![Produk](screenshoot/produk.png)
+![Transaksi 1](<screenshoot/Transaksi 1.png>)
+![Transaksi 2](<screenshoot/transsaksi 2 dan statistik toko.png>)
 
 ---
 
@@ -104,11 +101,8 @@ getSaran()
 ```
 
 ### Screenshot
-![hasil 1](<img width="371" height="480" alt="image" src="https://github.com/user-attachments/assets/d8869a1b-1366-4c0a-817d-03fd5f51bee3" />
-)
-![hasil 2](<img width="339" height="520" alt="image" src="https://github.com/user-attachments/assets/b3cf12ba-3a45-4c83-b5b4-ecf1b831b305" />
-)
-
+![hasil 1](<screenshoot/hasil 1.png>)
+![hasil 2](<screenshoot/hasil 2.png>)
 ---
 
 ## 3. Manajemen Data Nilai dengan Collections (Tugas7_Collections.kt)
@@ -155,9 +149,6 @@ search()
 ```
 
 ### Screenshot
-![Data Mahasiswa](<img width="425" height="632" alt="image" src="https://github.com/user-attachments/assets/f09281bd-8a6f-4719-90e8-eb4c69d024cb" />
-)
-![Statistik](<img width="343" height="629" alt="image" src="https://github.com/user-attachments/assets/8d6515ea-c76c-48de-b653-0d4e3831c9ac" />
-)
-![search](<img width="407" height="619" alt="image" src="https://github.com/user-attachments/assets/0fff178c-2414-4f6a-a809-e43517eabe23" />
-)
+![Data Mahasiswa](<screenshoot/Data Mahasiswa.png>)
+![statistik](screenshoot/Statistik.png)
+![search](screenshoot/search.png)
